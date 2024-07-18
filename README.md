@@ -12,9 +12,10 @@ Desenvolvimento e consumo da API https://09441c3d-9208-4fa9-a576-ba237af6b17c.mo
   - Importação via IntelliJ ou Eclipse.
   - Iniciar a aplicação principal `ApiChallengeApplication`.
   - Acessar a URL do H2: http://localhost:8080/h2
-    - Credenciais de acesso (username e password) estão disponíveis em `src/main/resources/application.yml`.
+    - Credenciais de acesso (username e password) estão disponíveis em `src/main/resources/application.yml`
+  - Se desejar acesse: (http://localhost:8080/swagger-ui/index.html) - Documentação no Swagger
 
-#### Endpoints CRUD:
+#### Endpoints CRUD: (Testar no Postman)
 
 - **Criação de Cliente**
   - **POST:** http://localhost:8080/customer/create
