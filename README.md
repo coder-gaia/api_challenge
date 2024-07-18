@@ -7,7 +7,7 @@ Desenvolvimento e consumo da API https://09441c3d-9208-4fa9-a576-ba237af6b17c.mo
 - **Pré-requisitos:**
   - JDK instalado na máquina.
   - Fork do projeto.
-  - Em seguida no terminal executar 'git clone {link do repositório}'
+  - Em seguida no terminal executar 'git clone {link do repositório}' ou baixar o projeto em .zip.
   - Abrir o editor de código.
   - Importação via IntelliJ ou Eclipse.
   - Iniciar a aplicação principal `ApiChallengeApplication`.
