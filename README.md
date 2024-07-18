@@ -7,6 +7,8 @@ Desenvolvimento e consumo da API https://09441c3d-9208-4fa9-a576-ba237af6b17c.mo
 - **Pré-requisitos:**
   - JDK instalado na máquina.
   - Fork do projeto.
+  - Em seguida no terminal executar 'git clone {link do repositório}'
+  - Abrir o editor de código.
   - Importação via IntelliJ ou Eclipse.
   - Iniciar a aplicação principal `ApiChallengeApplication`.
   - Acessar a URL do H2: http://localhost:8080/h2
